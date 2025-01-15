@@ -1,6 +1,6 @@
 # Counter App 🚀
 
-A simple, interactive counter application built with HTML, CSS, and JavaScript. Perfect for beginners to learn and practice DOM manipulation and event handling.
+A simple, interactive counter application built with HTML, CSS, and JavaScript. Perfect for learning and practice DOM manipulation and event handling.
 
 ## Features
 
