@@ -20,8 +20,11 @@ A simple, interactive counter application built with HTML, CSS, and JavaScript. 
 - counter-app
   
 ├── counter.html      # HTML file for the app structure
+
 ├── counter.css       # CSS file for styling
+
 └── counter.js       # JavaScript file for interactivity
+
 
 ## "Thank you for taking the time to explore this project. We hope this resource helps you on your coding journey. Happy learning and building!" 
 
