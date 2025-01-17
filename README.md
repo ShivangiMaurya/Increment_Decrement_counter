@@ -3,7 +3,6 @@
 A simple, interactive counter application built with HTML, CSS & JavaScript. Perfect for learning and practice DOM manipulation and event handling.
 
 ## Features
-
 - **Increment**: Increase the counter value by 1.
 - **Decrement**: Decrease the counter value by 1.
 - **Reset**: Reset the counter value to 0.
