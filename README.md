@@ -15,7 +15,6 @@ A simple, interactive counter application built with HTML, CSS & JavaScript. Per
 - **JavaScript**: For interactivity and dynamic updates.
 
 ## Project Structure
-
 - counter-app
   
 ├── counter.html      # HTML file for the app structure
